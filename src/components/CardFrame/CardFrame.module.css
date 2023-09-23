@@ -1,0 +1,15 @@
+.frame {
+    
+    max-width: 350px;
+    min-height: 500px;
+
+    display: flex;
+    flex-direction: column;
+
+    border: 3px solid black;
+
+    margin: 50px 50px;
+
+    position: relative;
+}
+
